@@ -1,0 +1,24 @@
+{
+  "name": "ts-learing-everyday",
+  "version": "0.1.0",
+  "description": "慢慢整理ts 的知识框架",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "build:w": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript ": "^3.6.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dannyzn/ts-learing-everyday.git"
+  },
+  "keywords": [],
+  "author": "酒窝 <694518723@qq.com> (https://github.com/Dannyzn)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dannyzn/ts-learing-everyday/issues"
+  },
+  "homepage": "https://github.com/Dannyzn/ts-learing-everyday#readme"
+}
